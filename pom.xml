@@ -5,6 +5,10 @@
     <version>v0.1</version>
 
     <name>Bomberman</name>
+    <properties>
+        <sonar.organization>phuonghoang268-1</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
 
     <dependencies>
         <dependency>
